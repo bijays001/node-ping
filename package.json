@@ -1,12 +1,12 @@
 {
-  "author": "danielzzz <daniel@zelisko.net> (http://daniel.zelisko.net)",
-  "name": "ping",
-  "description": "a simple wrapper for ping",
-  "version": "0.1.9",
-  "homepage": "http://github.com/danielzzz/node-ping",
+  "author": "bijays001 <bijays@us.ibm.com>",
+  "name": "base64tofile",
+  "description": "base64 to file",
+  "version": "0.x",
+  "homepage": "http://github.com/bijays001/base64tofile",
   "repository": {
     "type": "git",
-    "url": "git://github.com/danielzzz/node-ping.git"
+    "url": "git://github.com/bijays/node-ping.git"
   },
   "engines": {
     "node": ">=0.6.2"
